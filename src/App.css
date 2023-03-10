@@ -28,7 +28,7 @@
   color: #61dafb;
 }
 .btn-success {
-    --bs-btn-bg: #badbcc!important;
+  --bs-btn-bg: #badbcc !important;
 }
 
 @keyframes App-logo-spin {
